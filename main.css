@@ -1,0 +1,142 @@
+body {
+  min-width: 500px;
+  max-width: 800px;
+  margin: auto;
+  padding: 15px;
+  text-align: left;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding-bottom: 0px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+h1 {
+  margin-left: -10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 24px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: -10px;
+  padding-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+ol {
+  margin-top: 0px;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+a {
+  color: red;
+}
+
+img {
+  width: 60%;
+  margin-left: 20%;
+}
+
+pre {
+  margin-left: 5%;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  border-top: lightgray solid 15px;
+  background-color: rgba(50, 50, 50, 0.90);
+}
+
+code {
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  border: 0;
+  height: 0px;
+  background: #333;
+}
+
+#header {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+#footer {
+  margin-top: 50px;
+  padding-top: 10px;
+  border-top: black solid 1px;
+}
+
+.footnotes {
+  margin-top: 25px;
+}
+
+.footnotes hr {
+  display: none;
+}
+
+#wrapper {
+  width: 90%;
+  margin-left: 5%;
+}
+
+#courseInfo {
+  margin-bottom: 25px;
+}
+
+h1.title {
+  padding-top: 0px;
+  font-size: 30px;
+  border: none;
+}
+
+h1.school, h1.semester {
+  padding-top: 0px;
+  font-size: 18px;
+  border: none;
+}
+
+h1.courseInfo, h1.TOC, h1.lectures {
+  padding-top: 25px;
+  padding-bottom: 10px;
+  font-size: 24px;
+  border: none;
+}
+
+table {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 5px;
+  min-width: 25px;
+}
